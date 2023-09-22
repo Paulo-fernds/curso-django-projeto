@@ -3,10 +3,10 @@ Este projeto de website para registro e publicações de receitas está sendo de
 
 **_Evolução do projeto_**
 
-**__#Etapa 1__**
+**__#Etapa 1: Construção da header e adição da barra de pesquisa.__**
 
 ![WhatsApp Image 2023-09-21 at 01 24 03](https://github.com/Paulo-fernds/curso-django-projeto/assets/100871578/669af1a2-c114-465c-b805-5757cb4f65dc)
 
-**__#Etapa 2__**
+**__#Etapa 2: Criação dos cards de receitas.__**
 
 ![WhatsApp Image 2023-09-22 at 02 57 02](https://github.com/Paulo-fernds/curso-django-projeto/assets/100871578/7b2d3424-6714-4fc4-93be-65cc7b4ea175)
