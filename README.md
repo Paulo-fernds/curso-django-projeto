@@ -1,5 +1,5 @@
 # curso-django-projeto
-Este projeto de website para registro e publicações de receitas está sendo desenvolvido com intuito de aprender desenvolvimento web utilizando Django Framework e Django REST. 
+Este projeto de website para registro e publicações de receitas está sendo desenvolvido com intuito de aprender desenvolvimento de aplicações web utilizando Django Framework e Django REST. 
 
 **_Evolução do projeto_**
 
