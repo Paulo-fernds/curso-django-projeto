@@ -10,7 +10,7 @@ def home(request):
     })
 
 
-def recipe(request):
+def recipe(request, id):
     return render(request, 'recipes/pages/home.html', context={
 
         'name': 'Paulo Fernandes'
