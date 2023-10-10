@@ -4,7 +4,7 @@ from . import views
 
 
 app_name = 'recipes'
-#a
+
 
 urlpatterns = [
 
